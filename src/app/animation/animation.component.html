@@ -1,0 +1,6 @@
+<input @fadeIn>
+<br/>
+<br/>
+<button *ngFor = 'let emp of employee' (click) = 'remove(emp.firstName)'  @fadeIn> 
+    {{emp.firstName}}
+</button>

@@ -1,0 +1,8 @@
+<h1>Employee Details </h1>
+<span class="radioClass">Show:</span>
+<input type= 'radio' name='option' class="radioClass" value = 'All' [(ngModel)] = 'optionSelected' (change) = 'onOptionChangd()' >
+<span class='radioClass'> {{'All(' + all + ')'}}</span>
+<input type= 'radio' name='option' class = 'radioClass' value = 'Male' [(ngModel)] = 'optionSelected' (change) = 'onOptionChangd()'>
+<span class="radioClass"> {{'Male(' + male + ')'}}</span>
+<input type= 'radio' name='option' class="radioClass" value = 'Female' [(ngModel)] = 'optionSelected' (change) = 'onOptionChangd()'>
+<span class="radioClass"> {{'Female(' + female + ')'}}</span>

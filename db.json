@@ -1,0 +1,49 @@
+{
+  "Employees": [
+    {
+      "id" : 1,
+      "code": "Emp01",
+      "firstName": "Virat",
+      "lastName": "Kohali",
+      "gender": "Male",
+      "birthDate": "11/05/1988",
+      "annualSalary": 90000
+    },
+    {
+      "id":2,
+      "code": "Emp02",
+      "firstName": "Rohit",
+      "lastName": "Sharma",
+      "gender": "Male",
+      "birthDate": "4/30/1987",
+      "annualSalary": 80000
+    },
+    {
+      "id" : 3,
+      "code": "Emp03",
+      "firstName": "Shikhar",
+      "lastName": "Dhawan",
+      "gender": "Male",
+      "birthDate": "12/05/1988",
+      "annualSalary": 70000
+    },
+    {
+      "id" : 4,
+      "code": "Emp04",
+      "firstName": "Mithali",
+      "lastName": "Raj",
+      "gender": "Female",
+      "birthDate": "12/03/1982",
+      "annualSalary": 60000
+    },
+    {
+      "id" : 5,
+      "code": "Emp05",
+      "firstName": "Harmanpreet",
+      "lastName": "Kaur",
+      "gender": "Female",
+      "birthDate": "03/08/1989",
+      "annualSalary": 50000
+    }
+  ]
+}
